@@ -1,5 +1,7 @@
 console.log('I am ready')
 
+// something new
+
 let pokemon
 
 fetch('https://pokeapi.co/api/v2/pokemon')
