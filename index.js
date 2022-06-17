@@ -20,3 +20,5 @@ function doSomething(pokemonData) {
 function evolveUp(pokemon) {
   console.log(pokemon);
 }
+
+catchEmAll()
